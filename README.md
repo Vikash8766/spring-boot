@@ -14,8 +14,9 @@ For Maven: https://www.youtube.com/watch?v=pt3uB0sd5kY https://maven.apache.org/
 
 For JSON: https://www.youtube.com/watch?v=iiADhChRriM
 
+For Java development
 
-
+https://www.linkedin.com/posts/sandhyamishra2003_programming-study-resources-activity-7031207863691657216--Rro?utm_source=share&utm_medium=member_android
 -----------------------------------Useful Link--------------------------------
 ------------------------------------------------------------------------------
 java brains spring boot quick start
