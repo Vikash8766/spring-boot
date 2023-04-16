@@ -22,7 +22,8 @@ java brains spring boot quick start
 https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
 
 
-
+For MVC:
+https://meimfhd.hashnode.dev/an-introduction-to-mvc-architecture-and-project-development-using-java
 
 ----------------------------------Useful Link--------------------------------
 ----------------------------------------------------------------------------
