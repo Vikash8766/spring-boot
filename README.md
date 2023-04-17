@@ -39,5 +39,5 @@ https://developer.github.com/v3/
 spring boot Inilitizer
 https://start.spring.io/
 
-roadmap or varoius courses 
+roadmap for varoius courses 
 https://github.com/kamranahmedse/developer-roadmap
